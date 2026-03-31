@@ -1,5 +1,4 @@
 # weshare.click
-
 Weshare.click (or `weshare` for short) is a simple file-sharing application that you can self-host on AWS and use as an alternative to file-transfer services such as WeTransfer or Dropbox Transfer.
 
 The first version of this application was built from scratch by [Eoin](https://twitter.com/eoins) and [Luciano](https://twitter.com/loige) on a series of live streams as part of the [AWS Bites](https://awsbites.com) show. The full playlist (6 episodes / ~8 hours) is [available on YouTube](https://www.youtube.com/playlist?list=PLAWXFhe0N1vI1_z-06EzJ22pz95_gBrId).
